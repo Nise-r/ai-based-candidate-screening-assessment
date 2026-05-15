@@ -43,8 +43,8 @@ An intelligent interview simulation platform that uses AI to conduct technical i
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd interviewai
+git clone https://github.com/Nise-r/ai-based-candidate-screening-assessment/tree/main
+cd ai-based-candidate-screening-assessment
 ```
 
 ### 2. Backend Setup
