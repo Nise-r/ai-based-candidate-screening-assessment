@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+frontend/node_modules/
+frontent/README.md
+backend/__pycache__
+backend/.env
+backend/.ipynb_checkpoints
+backend/documents/
+backend/Untitled.ipynb
